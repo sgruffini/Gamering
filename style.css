@@ -206,6 +206,7 @@ html {
   color: #fff;
 }
 
+/*               Nav Queries            */
 @media screen and (max-width: 870px) {
   .checkboxx {
     display: none;
